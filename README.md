@@ -1,2 +1,4 @@
-# qcbenchmarks
-Quantum Computing benchmarks
+# Quantum Computing Benchmarks
+
+This repo contains a set of Quantum Computing benchmarks.
+
